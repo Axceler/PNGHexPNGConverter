@@ -1,4 +1,4 @@
-# HexDump2PNG
+# PNGHexPNGConverter
 
 A Python toolkit for converting PNG images to hexdump format and vice versa. Perfect for embedding image data in text files, code, or for educational purposes.
 
@@ -21,8 +21,8 @@ A Python toolkit for converting PNG images to hexdump format and vice versa. Per
 No installation required! Just download the scripts and run them directly.
 
 ```bash
-git clone https://github.com/yourusername/HexDump2PNG.git
-cd HexDump2PNG
+git clone https://github.com/yourusername/PNGHexPNGConverter.git
+cd PNGHexPNGConverter
 ```
 
 ## Usage
